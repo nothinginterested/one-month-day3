@@ -1,0 +1,2 @@
+window.logs({friends:[]})
+
